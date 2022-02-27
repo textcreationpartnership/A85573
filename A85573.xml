@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Great and bloody plot discovered against His Royal Majesty, Charles, by the grace of God king of Great Britain, France, and Ireland. And the names of the chief actors and conspirators, who desperately threatened to wash their wicked hands in his royal blood. : With the beheading of one of the grand traytors.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85573</idno>
+            <idno type="STC">Wing G1649</idno>
+            <idno type="STC">ESTC R208375</idno>
+            <idno type="EEBO-CITATION">45097806</idno>
+            <idno type="OCLC">ocm 45097806</idno>
+            <idno type="VID">171391</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171391)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2572:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Great and bloody plot discovered against His Royal Majesty, Charles, by the grace of God king of Great Britain, France, and Ireland. And the names of the chief actors and conspirators, who desperately threatened to wash their wicked hands in his royal blood. : With the beheading of one of the grand traytors.</title>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Chamberlain, living near the White Swan at Holborn-bridge,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Assassination attempts.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171391:1" rendition="simple:additions"/>
+            <p>A great and Bloody Plot diſcovered againſt His Royal Majeſty, <hi>CHARLES,</hi> by the Grace of God King of <hi>Great Brittain, France,</hi> and <hi>Ireland.</hi> And the names of the cheif Actors and Conſpirators, who deſperately threat<g ref="char:EOLhyphen"/>ned to waſh their Wicked Hands in His Royal Blood. With the beheading of one of the grand Traytors.</p>
+            <q>
+               <bibl>Ezek. 21.27.</bibl>
+               <p>I will overturn, overturn, overturn; and it ſhall be no more; until He come whoſe <hi>Right</hi> it is, and I will Give it Him.</p>
+            </q>
+            <q>
+               <bibl>Pſalm 132.18.</bibl>
+               <p>His Enemies I will Cloath with ſhame; but on Hine his <hi>Crown</hi> ſhall flouriſh.</p>
+            </q>
+            <figure>
+               <figDesc>depiction of a beheading</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Samuel Chamberlain,</hi> living near the White Swan at <hi>Holborn-bridge,</hi> 1660. <add>
+                  <abbr>Aprill:</abbr>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171391:2"/>
+            <pb n="3" facs="tcp:171391:2"/>
+            <head>A great and Bloody Plot diſc overed againſt His Royal Majeſty, CHARLES, by the Grace of GOD, King of Great Brittain. France, and Ireland, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He many unpleaſing <hi>ecchoes</hi> and <hi>reflections</hi> of theſe Times, and the ſore and itching Ears of ſome men in all Ages, are ſuch, that they will not indure healing, or ſound and wholeſome Doctrine, though the pain riſeth from the ſoreneſs and inflimation in them<g ref="char:EOLhyphen"/>ſelves, and not from the plaiſter or hand which honeſtly applies it; yet they are as prone as in <hi>fell boles</hi> and <hi>acute tumors,</hi> when touched, though but gently, to fall upon thoſe that are next them, and cry out aloud, <hi>O you hurt me;</hi> when the hurt is within and from themſelves. Thus it is, that the Fanaticks of theſe Times are become Our Diſturbers; and not onely againſt the perſon of the King, but againſt the root and foundation of all Monar<g ref="char:EOLhyphen"/>chy, as well as againſt the Holy Prieſthood. This is the Patient, with whoſe Hurts, Sores, Bruiſes, Wounds, and Sorrows, theſe particulars have moſt impudently
+<pb n="4" facs="tcp:171391:3"/>pudled and cruelly pleaſed themſelves, in turning pub<g ref="char:EOLhyphen"/>lick miſeries of Church and State to their private advan<g ref="char:EOLhyphen"/>tages: Long hath been theſe National ſufferings, (which hath cauſed the Kingdomes unſetledneſs) with daily breaking out, and angry tumors, with new purg<g ref="char:EOLhyphen"/>ing and loathſome Potions, with Launcing and Blood<g ref="char:EOLhyphen"/>lettings, with cutting off and canteriſings, which will not heat, reſtore, cloſe, and retintigrate the body, but maim, defame, and cripple the ſame for ever. To prevent which ſucceſſive miſeries, let every one indea<g ref="char:EOLhyphen"/>vour to improve the Sanctity and ſolemnity of all occa<g ref="char:EOLhyphen"/>ſions, for a thankful and hopeful opportunity of future miſeries; and to vouchſafe us the onely means and di<g ref="char:EOLhyphen"/>rections for the right method and honeſt way of curing an Afflicted Kingdom, and to preſerve her from all ſuch peſtring and cheating Undertakers, thoſe falſe Quackſal<g ref="char:EOLhyphen"/>vers, thoſe wanton and cruel Leeches, who did not want ſkill and knowledge to wrong both Church and State, to conſpire the death of their Lawfull Soveraign, <hi>a Plot unparallel!</hi> and what in them lies, to obſtract the ſetling of his Gracious Son, and <hi>Great Brittains</hi> Royal Soveraign <hi>King</hi> Charles <hi>the Second.</hi> But bleſſed be God for his deliverance, in that he is pleaſed to give us Phy<g ref="char:EOLhyphen"/>ſitians of better eyes and hearts, that may both wiſely diſcern our maladies, and ſeaſonably incounter them with fit remedies. To which poſture of Providence we are prone to hope, that we are this day reſtored by the Valour, Honour, and integrity of thoſe who now have the conduct of Power and Council; I pray God we may have cauſe to rejoyce long in good earneſt, for every days delay of our cure is a chargeable and painfull delu<g ref="char:EOLhyphen"/>ſion to the Nation, threatning ſuch a Conſumption of
+<pb n="5" facs="tcp:171391:3"/>Spirits, and ſuch delititations of the Nations ſtrength and eſtate (beſides the debaſing of its honour and repu<g ref="char:EOLhyphen"/>tation) as muſt neceſſarily [at laſt] betray us with our Poſterity, Eſtates, Laws, Liberties, and Lives; yea, and with our Reformed Religion (which ought to be dearer to us, as it was to our Fore-fathers, then both our lives and eſtates) to that ſorraign invaſion and <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> ſuperſtition, which is the grand deſign of the <hi>Jeſui<g ref="char:EOLhyphen"/>tick</hi> agitation, whereto are ſubſervient all the fanatick factions of thoſe who are enemies to the juſt and le<g ref="char:EOLhyphen"/>gal cloſing or compoſing our Diſtractions in Church and State: For doth not experience make it evident, <hi>That a Kingdom divided in it ſelf cannot ſtand.</hi> And the apparent demonſtrations of Gods evident and eminent wrath of indignation, expreſſed againſt the enemies of the King, appears in theſe moſt memorable and remarkable ex<g ref="char:EOLhyphen"/>amples, <hi>viz.</hi>
+            </p>
+            <p n="1">1. One Sir <hi>Thomas Martin,</hi> Knight of <hi>Cambridgeſhire,</hi> a great complier with the times, having been a Hunting in <hi>Holmby</hi> Park, and the Deer being faln, ſtuck and o<g ref="char:EOLhyphen"/>pened, he deſired (together with the other Gentle<g ref="char:EOLhyphen"/>men) to waſh his hands in the Deers blood: No (ſaid he) I had rather waſh my hands in the blood of the young King of <hi>Scots.</hi> And immediately after this, ri<g ref="char:EOLhyphen"/>ding home the ſame day at evening, his Horſe violently threw him off his Back on the ground; in which fall, he pitcht on his Head with ſuch force, that he broke his ſkull and ſhoulder, and ſo for a few dayes continued in great pain and died.</p>
+            <p n="2">2. The Conſtable of <hi>Shaw</hi> in <hi>Lancaſhire,</hi> taking the Engagement, was ſuddenly ſo troubled in his Conſci<g ref="char:EOLhyphen"/>ence, that notwithſtanding the godly exhortations and
+<pb n="6" facs="tcp:171391:4"/>comforts adminiſtred unto him by reverend Divines, yet the apprehenſion of Gods wrath for what he had done therein, ſo increaſed upon him, that he fell diſtracted, and ſo continued for many years together.</p>
+            <p n="3">3. One Mr. <hi>Smith</hi> Miniſter of <hi>Stoke</hi> and Prior in <hi>Wor<g ref="char:EOLhyphen"/>ceſterſhire,</hi> having taken the engagement for the procu<g ref="char:EOLhyphen"/>ring of an augmentation to his living, returning home from <hi>London</hi> after he had taken it, fell preſently into ſuch a frighting horror of his Conſcience, that he did often indeavour to beat out his own Brains: At length reco<g ref="char:EOLhyphen"/>vering his ſenſes by Gods great mercy, repented bitterly of what he had done, and thereupon departed his life in peace.</p>
+            <p n="4">4. One <hi>Thomas Hoyl,</hi> who was alwayes accounted a very pious and religious Gentleman, an Alderman of <hi>York</hi> and Member of Parliament; having taken the en<g ref="char:EOLhyphen"/>gagement (even againſt his Conſcience) turned a great complyer with them at <hi>Weſtminſter.</hi> Not long after, it pleaſed the Lord ſo to leave him to himſelf, that on the very ſame day 12 moneth that King <hi>Chrales</hi> was behead<g ref="char:EOLhyphen"/>ed, yea as near as poſsibly could be judged about the ve<g ref="char:EOLhyphen"/>ry ſame hour of that day the ſame Gentleman hanged himſelf at his own houſe at Weſtminſter, and was found dead by his Wife when ſhe came home, who went out early that morning.</p>
+            <p n="5">5. Mr. <hi>Shereman</hi> a Silkman in Pater-Noſter-Row, at <hi>London,</hi> who had been lookt upon as an honeſt Gentle<g ref="char:EOLhyphen"/>tleman, had been a Tryer and an Elder in the Preſbiteri<g ref="char:EOLhyphen"/>an Church Government, a very good friend to Mr. <hi>Love,</hi> then his Paſtour; but afterwards turning with the times, he took the engagement, and that in form of an Oath; whereupon he was made a Common Council-man; and
+<pb n="7" facs="tcp:171391:4"/>turned an utter enemy and hater of the party afore-men<g ref="char:EOLhyphen"/>tioned; who ſhortly after being in the ſhop with his Wife, and in very good health, yet in the evening ſtan<g ref="char:EOLhyphen"/>ding at his Counter in his ſhop, and his Wife cloſe by him, he on a ſudden fell down dead by her and never ſpake one word.</p>
+            <p n="6">6. Colonel <hi>Ven,</hi> a Citizen of <hi>London,</hi> formerly a great Profeſsor of religion, and a Member of Parliament in the Houſe of Commons, but he being turned with the times (as others were) became an engager and mighty ſtickler for and with them at Weſtminſter, and proved a great enemy unto the Preſbiterian Government, and would often uſe theſe words againſt them; <hi>That they at Weſtminſter ſhould never be quiet till they had provided a pair of ſhooes and a staffe for the turbulent Preſbiterians, and baniſh them out of the Kingdom.</hi> But it pleaſed the Lord, that on the next day after that horrible abuſe dome to M. <hi>Jenkin</hi> then miniſter of Chriſt Church, London, in both ſequeſtring him out of his living, and baniſhing him out of the City, wherein this Colonel <hi>Ven</hi> was one of the cheif Actors, and had moſt churliſhly carried himſelf to<g ref="char:EOLhyphen"/>ward the ſaid man aforementioned in the Committee e<g ref="char:EOLhyphen"/>ven that day, whereon this godly miniſter was ſo cenſu<g ref="char:EOLhyphen"/>red, which was July the 6 1650. being Thurſday. It pleaſed the Lord, I ſay, that <hi>Ven</hi> next Friday following, July 7. going to bed, as perfectly well and in health, as ever in his life, and his Wife lying by him, he fell aſleep by her immediately, and ſlept without making any com<g ref="char:EOLhyphen"/>plaint of the leaſt diſtemper, but the next morning ſhe awaking, found him quite dead by her in the bed, he ne<g ref="char:EOLhyphen"/>ver having made the leaſt groan. And thus God baniſh<g ref="char:EOLhyphen"/>ed him from the living!</p>
+            <p n="7">
+               <pb n="8" facs="tcp:171391:5"/> 7. I ſhall conclude all with the memorable example of Gods Juſtice upon <hi>Lockier,</hi> an active Agitator and Le<g ref="char:EOLhyphen"/>veller in the Army, who had a great hand in bringing the King to his death, and cried out, <hi>Juſtice, Juſtice, Juſtice,</hi> openly againſt him, and <hi>ſpit in his face at</hi> Weſtminſter-Hall <hi>as he was going to his Tryal,</hi> before his condemnation, conducted him to the Block: Not long after, this <hi>Lockier</hi> was Tryed for his life by a Council of War, who condem<g ref="char:EOLhyphen"/>ned him <hi>to beſhet to Death,</hi> as a Mutineer; in <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard, <hi>London.</hi>
+            </p>
+            <p>It is reported, That two of the Fanatick party having imbarqued themſelves for <hi>Flonders,</hi> with a reſolution to <hi>stab</hi> or <hi>Piſtol the King;</hi> the one of them, when he arrived at <hi>Bruſſels</hi> was very much troubled in Conſcience, and the third day after his arrive, reſolved to declare that bloody attempt, and to acquit himſelf of the horrour, which conſequently depended upon ſo notorious a <hi>Soul-damning-Guilt;</hi> and thereupon devoted himſelf to His Majeſty: And humbly begging pardon, diſcovered the whole deſign; for which he was well rewarded, and the other ſecured.</p>
+            <p>One <hi>John Frith,</hi> a Franciſcian Frier, for attempting to Poyſon the King, was alſo beheaded by Orders from the moſt Chriſtian King of <hi>France.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
